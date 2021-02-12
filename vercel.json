@@ -1,0 +1,6 @@
+{
+  "redirects": [
+    { "source": "/", "destination": "https://youtu.be/LQRAfJyEsko" }
+  ],
+  "rewrites": [{ "source": "/:keyword", "destination": "/api/keyword" }]
+}
