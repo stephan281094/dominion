@@ -137,7 +137,7 @@ const startTimes = {
 
   // RABBITS
   experimentation: scenes.rabbit,
-  rabbits: scenes.rabbit,
+  rabbit: scenes.rabbit,
   rabbits: scenes.rabbit,
   testing: scenes.rabbit,
 
