@@ -2,5 +2,9 @@
   "redirects": [
     { "source": "/", "destination": "https://youtu.be/LQRAfJyEsko" }
   ],
-  "rewrites": [{ "source": "/:keyword", "destination": "/api/keyword" }]
+  "rewrites": [
+    { "source": "/robots.txt", "destination": "/api/robots" },
+    { "source": "/analytics", "destination": "/api/analytics" },
+    { "source": "/:keyword", "destination": "/api/keyword" }
+  ]
 }

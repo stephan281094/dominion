@@ -1,6 +1,10 @@
 {
-  "name": "dominion",
+  "name": "dmnn",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "date-fns": "^2.18.0",
+    "faunadb": "^4.1.1"
+  }
 }
