@@ -25,7 +25,7 @@ export const scenes = {
 
 export const startTimes = {
   // ALL
-  all: scenes.all,
+  homepage: scenes.all,
 
   // CAMELS
   camel: scenes.camel,
