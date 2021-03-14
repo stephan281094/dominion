@@ -41,6 +41,8 @@ export const startTimes = {
   // COWS
   beef: scenes.cow,
   burger: scenes.cow,
+  calf: scene.cow,
+  calves: scene.cow,
   cow: scenes.cow,
   cows: scenes.cow,
   dairy: scenes.cow,
@@ -50,6 +52,7 @@ export const startTimes = {
   milk: scenes.cow,
   rodeo: scenes.cow,
   steak: scenes.cow,
+  veal: scenes.cow,
   yogurt: scenes.cow,
 
   // DOGS
